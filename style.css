@@ -8,3 +8,11 @@
 .red {
   color: red
 }
+#title{
+  color: blue;
+  background-color: lightblue;
+}
+
+main{
+  background-color: gray;
+}
