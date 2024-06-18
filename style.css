@@ -1,11 +1,8 @@
 /* What a mess! */
 
-.important {
-  color: red;
-  font-size: 100px;
+/* style.css */
+.blue {
+  color: blue;
 }
 
-#highlight {
-  color: blue;
-  font-size: 100px;
-}
+
