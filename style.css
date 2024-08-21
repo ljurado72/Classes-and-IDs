@@ -8,11 +8,12 @@
 .red {
   color: red
 }
-#title{
+
+#title {
   color: blue;
   background-color: lightblue;
 }
 
-main{
-  background-color: gray;
+main {
+  background-color: rgb(162, 245, 187);
 }
